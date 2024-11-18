@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import profile from "../../image/profile.jpeg";
+import resumepic from "../../image/resumepic.jpeg";
 
 export default function Home() {
   return (
@@ -20,7 +20,7 @@ export default function Home() {
         <div className="flex justify-center">
           <Image
             className="rounded-full object-cover"
-            src={profile}
+            src={resumepic}
             alt="oops,no image"
             width={250}
             height={250}
