@@ -9,7 +9,7 @@ export default function Contact() {
     <div className="bg-[#DAFFFB] min-h-screen flex flex-col justify-between">
       {/* Header */}
       <div className="text-center px-6 py-8">
-        <h2 className="font-serif text-xl sm:text-2xl md:text-3xl mb-4">
+        <h2 className="font-serif text-xl sm:text-2xl md:text-3xl mb-4 text-[#AA5486]">
           I hope you have read all the details and if you are interested in hiring.
         </h2>
         <h2 className="text-center font-serif text-lg sm:text-xl md:text-2xl">

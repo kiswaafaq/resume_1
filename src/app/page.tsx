@@ -14,7 +14,7 @@ export default function Home() {
 
       {/* Middle Section */}
       <div className="flex flex-col-reverse md:flex-row items-center justify-center md:justify-between p-4 md:p-10 gap-6 md:gap-20">
-        <p className="text-sm sm:text-base md:text-lg text-center md:text-left font-medium">
+        <p className="text-sm sm:text-base md:text-lg text-center md:text-left font-medium text-[#AA5486] ">
           Welcome to my resume! Explore my skills, projects, and more.
         </p>
         <div className="flex justify-center">
