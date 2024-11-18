@@ -19,11 +19,11 @@ export default function Home() {
         </p>
         <div className="flex justify-center">
           <Image
-            className="rounded-full object-cover"
+            className="rounded-lg object-cover"
             src={resumepic}
             alt="oops,no image"
-            width={250}
-            height={250}
+            width={350}
+            height={350}
           />
         </div>
       </div>

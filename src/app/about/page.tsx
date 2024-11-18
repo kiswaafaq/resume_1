@@ -12,7 +12,7 @@ export default function About() {
 
       {/* About Content */}
       <div className="px-6 py-10 max-w-4xl mx-auto text-justify sm:text-center">
-        <p className="font-sans font-medium text-base sm:text-lg md:text-xl text-[#2A3663] leading-relaxed tracking-wide">
+        <p className="font-sans hover:font-serif font-medium text-base sm:text-lg md:text-xl text-[#2A3663] leading-relaxed tracking-wide">
           I am a dedicated and ambitious student currently pursuing my academic
           and professional growth with a keen interest in web development and technology. I am highly organized, quick to learn, and passionate about problem-solving. 
           My academic journey has been complemented by hands-on experience in projects and extracurricular activities that have honed my technical skills, creativity, and teamwork. 
